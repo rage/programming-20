@@ -44,7 +44,7 @@ So far all the methods we have used have been ready-made Java methods. Next we w
 
 <!-- Metodit kirjoitetaan ohjelmarunkoon `main`:in aaltosulkeiden ulkopuolelle mutta kuitenkin "uloimmaisten" aaltosulkeiden sisäpuolelle, joko mainin ylä- tai alapuolelle. -->
 
-In the code boilerplate, methods are written outside of the curly braces of the `main`, yet inside out the "outermost" curly braces. They can be located above or below the main.
+In the code boilerplate, methods are written outside of the curly braces of `main`, yet within the "outermost" curly braces. They can be located either above or below `main`.
 
 <!-- ```java
 import java.util.Scanner;
