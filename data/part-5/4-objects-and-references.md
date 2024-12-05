@@ -1242,9 +1242,9 @@ rahaa 2.0
 <sample-output>
 
 money 10.0
-successfully took: true
+successfully withdrew: true
 money 2.0
-successfully took: false
+successfully withdrew: false
 money 2.0
 
 </sample-output>
