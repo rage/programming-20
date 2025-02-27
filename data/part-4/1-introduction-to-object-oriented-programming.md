@@ -222,7 +222,7 @@ public class Main {
 
 *Luokkien, muuttujien ja metodien nimissä ei tyypillisesti käytetä ääkkösiä. Vältä niiden käyttöä myös tässä.* -->
 
-In NetBeans, a new class can be created by going to the _projects_ section located on the left, right-clicking _new_, and then _java class_. The class is provided a name in the dialog that opens.
+In NetBeans, a new class can be created by going to the _Projects_ section located on the left, right-clicking the project's name, and selecting _New_, and then _Java Class_. The class is provided a name in the dialog that opens.
 
 As with variables and methods, the name of a class should be as descriptive as possible. It's usual for a class to live on and take on a different form as a program develops. As such, the class may have to be renamed at some later point.
 
